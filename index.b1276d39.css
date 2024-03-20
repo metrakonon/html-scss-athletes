@@ -32,6 +32,7 @@
 
 .person:hover {
   background-color: #eee;
+  border-radius: 10px;
   transform: scale(1.1);
 }
 
