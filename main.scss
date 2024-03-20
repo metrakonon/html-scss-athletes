@@ -26,6 +26,7 @@
   height: 287px;
   position: relative;
   transition: transform 0.3s ease-in-out;
+  text-align: center;
 
   &:hover {
     background-color: #eeeeee;
@@ -70,7 +71,7 @@
   font-family: Arial;
   font-size: 20px;
   line-height: 23px;
-  text-align: center;
+
   color: #2f4f4f;
 }
 
