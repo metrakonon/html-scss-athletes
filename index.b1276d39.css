@@ -2,10 +2,9 @@
   --column: 2;
   grid-template-columns: repeat(var(--column), 1fr);
   gap: 30px;
-  max-width: 400px;
+  width: fit-content;
   margin: auto;
   padding-block: 30px;
-  padding-inline: 35px;
   display: grid;
 }
 
